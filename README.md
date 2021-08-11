@@ -3,7 +3,7 @@ Author:	Emily Stoops (emistoops)
 Email:	stoops@calicolabs.com
 
 
-Contents
+## Contents
 Phenix Data Manipulation
-Description
+## Description
 Python applications to extract individual z-stacks, time series, etc from large Phenix datasets
